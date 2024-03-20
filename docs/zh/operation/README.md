@@ -82,7 +82,7 @@ $ make
 ```shell script
 $ git clone https://github.com/ipfs-force-community/sophon-gateway.git
 $ cd sophon-gateway
-$ git checkout -b v1.0.0 v1.0.0
+$ git checkout -b v1.14.0 v1.14.0
 $ git submodule update --init --recursive
 $ make
 ```
